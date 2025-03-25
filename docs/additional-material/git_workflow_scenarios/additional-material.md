@@ -1,4 +1,4 @@
-# Additional information
+# Additional information about Git techniques
 
 We assume that you have already finished with the basic tutorial before coming here. This document will give you some additional information about advanced Git techniques.
 
