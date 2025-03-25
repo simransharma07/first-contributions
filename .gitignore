@@ -394,3 +394,6 @@ desktop.ini
 
 .codegpt
 .qodo
+*.log
+node_modues/
+*.env
